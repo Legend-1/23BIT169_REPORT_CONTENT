@@ -1,0 +1,64 @@
+ 
+****************************************
+Report : cell
+Design : project
+Version: W-2024.09
+Date   : Sun Apr  5 14:56:03 2026
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U18                       INVX0_RVT       saed32rvt_ss0p7vn40c
+                                                          1.270720  
+U19                       NAND4X0_RVT     saed32rvt_ss0p7vn40c
+                                                          2.033152  
+U20                       NAND3X0_RVT     saed32rvt_ss0p7vn40c
+                                                          1.779008  
+U21                       NAND4X0_RVT     saed32rvt_ss0p7vn40c
+                                                          2.033152  
+U22                       NAND4X0_RVT     saed32rvt_ss0p7vn40c
+                                                          2.033152  
+U23                       NAND3X0_RVT     saed32rvt_ss0p7vn40c
+                                                          1.779008  
+U24                       NAND3X0_RVT     saed32rvt_ss0p7vn40c
+                                                          1.779008  
+U25                       NOR4X0_RVT      saed32rvt_ss0p7vn40c
+                                                          3.049728  
+U26                       INVX0_RVT       saed32rvt_ss0p7vn40c
+                                                          1.270720  
+U28                       NOR2X0_RVT      saed32rvt_ss0p7vn40c
+                                                          2.541440  
+U40                       AND4X1_RVT      saed32rvt_ss0p7vn40c
+                                                          2.541440  
+x_reg_reg[0]              DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+x_reg_reg[1]              DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+x_reg_reg[2]              DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[0]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[1]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[2]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[3]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[4]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[5]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[6]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+y_reg[7]                  DFFSSRX1_RVT    saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+--------------------------------------------------------------------------------
+Total 22 cells                                            100.386882
+1

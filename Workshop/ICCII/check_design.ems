@@ -1,0 +1,16 @@
+<Database>
+versionNumber:2
+Name/home/student/Music/RTL2GDSII/Workshop/ICCII/check_design.ems
+Creation TimeSun Apr  5 15:45:51 2026
+Modified TimeSun Apr  5 15:45:51 2026
+Design Nameproject
+Library NamePROJECT_LIB
+</Database>
+<RuleCount>
+DFT-0111
+</RuleCount>
+<UserDefinedRules>
+</UserDefinedRules>
+<Messages>
+DFT-011Informationreason10
+</Messages>

@@ -1,0 +1,43 @@
+ 
+****************************************
+Report : area
+Design : project
+Version: W-2024.09
+Date   : Sun Apr  5 14:56:03 2026
+****************************************
+
+Library(s) Used:
+
+    saed32rvt_ss0p7vn40c (File: /home/student/Music/RTL2GDSII/Workshop/ref/lib/stdcell_rvt/saed32rvt_ss0p7vn40c.db)
+
+Number of ports:                           13
+Number of nets:                            41
+Number of cells:                           34
+Number of combinational cells:             11
+Number of sequential cells:                11
+Number of macros/black boxes:               0
+Number of buf/inv:                          2
+Number of references:                       7
+
+Combinational area:                 22.110528
+Buf/Inv area:                        2.541440
+Noncombinational area:              78.276353
+Macro/Black Box area:                0.000000
+Net Interconnect area:               7.376947
+
+Total cell area:                   100.386882
+Total area:                        107.763829
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  --------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-    Noncombi-  Black-
+                                  Total      Total    national  national   boxes   Design
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+project                            100.3869    100.0   22.1105    78.2764  0.0000  project
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+Total                                                  22.1105    78.2764  0.0000
+
+1
